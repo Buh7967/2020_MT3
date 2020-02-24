@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> First </title>
+  </head>
+  <body bgcolor="#def28d">
+    <h1>New Requirement! </h1>
+    <p>Create file called <b>MT_yourname.html<b>.
+      Add a famouse quote! 
+      It create basic html page with the background colour set to your favourite colour! 
+     <p>
+  </body>
+</html>
